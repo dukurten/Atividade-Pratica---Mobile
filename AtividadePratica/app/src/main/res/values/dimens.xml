@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="padding_tela">24dp</dimen>
+
+    <dimen name="tamanho_titulo">28sp</dimen>
+    <dimen name="tamanho_texto">18sp</dimen>
+
+    <dimen name="margem_titulo">32dp</dimen>
+    <dimen name="margem_campo">20dp</dimen>
+    <dimen name="margem_botoes">24dp</dimen>
+    <dimen name="margem_resultado">32dp</dimen>
+    <dimen name="espaco_resultado">12dp</dimen>
+
+</resources>
